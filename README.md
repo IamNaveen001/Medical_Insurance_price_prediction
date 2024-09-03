@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/insurance-cost-prediction.git
+https://github.com/IamNaveen001/Medical_Insurance_price_prediction.git
 Navigate to the project directory:
 bash
 Copy code
